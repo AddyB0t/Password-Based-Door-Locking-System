@@ -1,8 +1,6 @@
 # Password-Based Door Locking System using Arduino
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wiki/arduino/Arduino/images/ArduinoUno.png" width="400" alt="Arduino Uno">
-</div>
+
 
 ## 📋 Overview
 This project implements a secure door locking system using an Arduino Uno microcontroller. The system uses a password mechanism through a 4x4 matrix keypad to control access to a door via a servo motor.
